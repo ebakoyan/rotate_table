@@ -1,0 +1,7 @@
+id,json,is_valid
+1,[],false
+2,"[90,40,10,20]",true
+3,[-5],true
+9,[],false
+5,[],false
+8,[],false
